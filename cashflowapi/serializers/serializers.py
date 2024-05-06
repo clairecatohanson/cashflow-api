@@ -1,5 +1,6 @@
 from rest_framework import serializers
-from .models import Group, Category, User, Team, UserTeam, Expense, Payment
+from django.contrib.auth.models import User
+from cashflowapi.models import Group, Category, Team, UserTeam, Expense, Payment
 
 
 class GroupSerializer(serializers.ModelSerializer):
