@@ -1,0 +1,245 @@
+[
+  {
+    "model": "cashflowapi.category",
+    "pk": 1,
+    "fields": {
+      "name": "Housing",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 2,
+    "fields": {
+      "name": "Utilities",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 3,
+    "fields": {
+      "name": "Groceries",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 4,
+    "fields": {
+      "name": "Transportation",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 5,
+    "fields": {
+      "name": "Insurance",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 6,
+    "fields": {
+      "name": "Debt Payments",
+      "group": 3,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 7,
+    "fields": {
+      "name": "Savings",
+      "group": 3,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 8,
+    "fields": {
+      "name": "Restaurants",
+      "group": 2,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 9,
+    "fields": {
+      "name": "Entertainment",
+      "group": 2,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 10,
+    "fields": {
+      "name": "Clothing",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 11,
+    "fields": {
+      "name": "Education",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 12,
+    "fields": {
+      "name": "Childcare",
+      "group": 1,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 13,
+    "fields": {
+      "name": "Taxes",
+      "group": 6,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 14,
+    "fields": {
+      "name": "Miscellaneous",
+      "group": 2,
+      "user": 100
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 15,
+    "fields": {
+      "name": "Car Maintenance",
+      "group": 1,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 16,
+    "fields": {
+      "name": "Gas & Parking",
+      "group": 1,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 17,
+    "fields": {
+      "name": "Electronics",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 18,
+    "fields": {
+      "name": "Gifts",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 19,
+    "fields": {
+      "name": "Hobbies",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 20,
+    "fields": {
+      "name": "Home",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 21,
+    "fields": {
+      "name": "Personal Care",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 22,
+    "fields": {
+      "name": "Travel",
+      "group": 2,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 23,
+    "fields": {
+      "name": "Pet Care",
+      "group": 1,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 24,
+    "fields": {
+      "name": "Retirement",
+      "group": 3,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 25,
+    "fields": {
+      "name": "Electric",
+      "group": 1,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 26,
+    "fields": {
+      "name": "Internet",
+      "group": 1,
+      "user": 1
+    }
+  },
+  {
+    "model": "cashflowapi.category",
+    "pk": 27,
+    "fields": {
+      "name": "Phone",
+      "group": 1,
+      "user": 1
+    }
+  }
+]

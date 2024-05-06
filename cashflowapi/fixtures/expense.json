@@ -1,0 +1,1190 @@
+[
+  {
+    "model": "cashflowapi.expense",
+    "pk": 1,
+    "fields": {
+      "date": "2023-03-07",
+      "description": "Cooking class",
+      "amount": 50.0,
+      "category": 9,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 2,
+    "fields": {
+      "date": "2023-03-08",
+      "description": "New glasses",
+      "amount": 200.0,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 3,
+    "fields": {
+      "date": "2023-03-10",
+      "description": "Rent",
+      "amount": 1200.0,
+      "category": 1,
+      "user": 2,
+      "team": 5
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 4,
+    "fields": {
+      "date": "2023-03-12",
+      "description": "Laptop stand",
+      "amount": 30.0,
+      "category": 20,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 5,
+    "fields": {
+      "date": "2023-03-15",
+      "description": "Car registration renewal",
+      "amount": 150.0,
+      "category": 4,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 6,
+    "fields": {
+      "date": "2023-03-18",
+      "description": "Laptop repair",
+      "amount": 100.0,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 7,
+    "fields": {
+      "date": "2023-03-21",
+      "description": "Movie theater popcorn",
+      "amount": 8.0,
+      "category": 9,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 8,
+    "fields": {
+      "date": "2023-03-24",
+      "description": "Childcare services",
+      "amount": 400.0,
+      "category": 12,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 9,
+    "fields": {
+      "date": "2023-03-28",
+      "description": "Winter coat",
+      "amount": 150.0,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 10,
+    "fields": {
+      "date": "2023-04-01",
+      "description": "Fast food lunch",
+      "amount": 10.0,
+      "category": 8,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 11,
+    "fields": {
+      "date": "2023-04-05",
+      "description": "Scarf",
+      "amount": 25.0,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 12,
+    "fields": {
+      "date": "2023-04-08",
+      "description": "Internet bill",
+      "amount": 70.0,
+      "category": 26,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 13,
+    "fields": {
+      "date": "2023-04-12",
+      "description": "Birthday dinner for family member",
+      "amount": 100.0,
+      "category": 18,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 14,
+    "fields": {
+      "date": "2023-04-15",
+      "description": "Sunglasses",
+      "amount": 25.0,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 15,
+    "fields": {
+      "date": "2023-04-19",
+      "description": "Coffee table book",
+      "amount": 25.0,
+      "category": 20,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 16,
+    "fields": {
+      "date": "2023-04-23",
+      "description": "Museum entry fee",
+      "amount": 15.0,
+      "category": 9,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 17,
+    "fields": {
+      "date": "2023-04-27",
+      "description": "Dinner ingredients",
+      "amount": 40.0,
+      "category": 3,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 18,
+    "fields": {
+      "date": "2023-05-03",
+      "description": "Movie rental",
+      "amount": 5.0,
+      "category": 9,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 19,
+    "fields": {
+      "date": "2023-05-09",
+      "description": "Gas for lawnmower",
+      "amount": 20.0,
+      "category": 20,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 20,
+    "fields": {
+      "date": "2023-05-13",
+      "description": "Houseplant",
+      "amount": 15.0,
+      "category": 20,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 21,
+    "fields": {
+      "date": "2023-05-17",
+      "description": "Cell phone bill",
+      "amount": 60.0,
+      "category": 27,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 22,
+    "fields": {
+      "date": "2023-05-19",
+      "description": "Gloves",
+      "amount": 20.0,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 23,
+    "fields": {
+      "date": "2023-05-22",
+      "description": "Electricity bill",
+      "amount": 80.0,
+      "category": 25,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 24,
+    "fields": {
+      "date": "2023-05-26",
+      "description": "Art gallery admission",
+      "amount": 10.0,
+      "category": 9,
+      "user": 1,
+      "team": 9
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 25,
+    "fields": {
+      "date": "2023-05-29",
+      "description": "Sunscreen",
+      "amount": 15.0,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 26,
+    "fields": {
+      "date": "2023-05-31",
+      "description": "Ski lift ticket",
+      "amount": 80.0,
+      "category": 22,
+      "user": 4,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 27,
+    "fields": {
+      "date": "2023-06-05",
+      "description": "Grocery shopping",
+      "amount": 200.0,
+      "category": 3,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 28,
+    "fields": {
+      "date": "2023-06-07",
+      "description": "Ski rental",
+      "amount": 40.0,
+      "category": 22,
+      "user": 5,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 29,
+    "fields": {
+      "date": "2023-06-11",
+      "description": "Gym membership",
+      "amount": 50.0,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 30,
+    "fields": {
+      "date": "2023-06-18",
+      "description": "Household cleaning products",
+      "amount": 20.0,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 31,
+    "fields": {
+      "date": "2023-06-20",
+      "description": "Beach towel",
+      "amount": 20.0,
+      "category": 22,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 32,
+    "fields": {
+      "date": "2023-06-25",
+      "description": "Cooking ingredients",
+      "amount": 40.0,
+      "category": 3,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 33,
+    "fields": {
+      "date": "2023-06-26",
+      "description": "Magazine subscription",
+      "amount": 20.0,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 35,
+    "fields": {
+      "date": "2023-06-30",
+      "description": "Public park picnic supplies",
+      "amount": 30.0,
+      "category": 3,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 36,
+    "fields": {
+      "date": "2023-07-02",
+      "description": "Fitness class",
+      "amount": 25.0,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 37,
+    "fields": {
+      "date": "2023-07-05",
+      "description": "Board game night snacks",
+      "amount": 20.0,
+      "category": 9,
+      "user": 4,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 38,
+    "fields": {
+      "date": "2023-07-08",
+      "description": "Swimming goggles",
+      "amount": 10.0,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 39,
+    "fields": {
+      "date": "2023-07-10",
+      "description": "Video game purchase",
+      "amount": 60.0,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 40,
+    "fields": {
+      "date": "2023-07-14",
+      "description": "Gasoline",
+      "amount": 50.0,
+      "category": 16,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 41,
+    "fields": {
+      "date": "2023-07-17",
+      "description": "Taxi ride",
+      "amount": 25.0,
+      "category": 4,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 42,
+    "fields": {
+      "date": "2023-07-20",
+      "description": "Snowboard waxing",
+      "amount": 30.0,
+      "category": 19,
+      "user": 5,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 43,
+    "fields": {
+      "date": "2023-07-23",
+      "description": "Board game purchase",
+      "amount": 25.0,
+      "category": 9,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 44,
+    "fields": {
+      "date": "2023-07-26",
+      "description": "Haircut",
+      "amount": 20.0,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 45,
+    "fields": {
+      "date": "2023-08-01",
+      "description": "Health insurance premium",
+      "amount": 300.0,
+      "category": 5,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 46,
+    "fields": {
+      "date": "2023-08-04",
+      "description": "Parking fee",
+      "amount": 10.0,
+      "category": 4,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 47,
+    "fields": {
+      "date": "2023-08-08",
+      "description": "Travel guidebook",
+      "amount": 20.0,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 48,
+    "fields": {
+      "date": "2023-08-10",
+      "description": "Theater tickets",
+      "amount": 50.0,
+      "category": 9,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 49,
+    "fields": {
+      "date": "2023-08-15",
+      "description": "Coffee from a cafe",
+      "amount": 5.0,
+      "category": 8,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 50,
+    "fields": {
+      "date": "2023-08-17",
+      "description": "Bicycle repair",
+      "amount": 50.0,
+      "category": 19,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 51,
+    "fields": {
+      "date": "2023-08-22",
+      "description": "Restaurant delivery",
+      "amount": 40.0,
+      "category": 8,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 52,
+    "fields": {
+      "date": "2023-08-24",
+      "description": "Concert tickets",
+      "amount": 100.0,
+      "category": 9,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 53,
+    "fields": {
+      "date": "2023-08-29",
+      "description": "New book",
+      "amount": 15,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 54,
+    "fields": {
+      "date": "2023-09-01",
+      "description": "Public transportation fare",
+      "amount": 2.5,
+      "category": 4,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 55,
+    "fields": {
+      "date": "2023-09-05",
+      "description": "Takeout lunch",
+      "amount": 15,
+      "category": 8,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 56,
+    "fields": {
+      "date": "2023-09-09",
+      "description": "New shoes",
+      "amount": 80,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 57,
+    "fields": {
+      "date": "2023-09-12",
+      "description": "Concert merchandise",
+      "amount": 40,
+      "category": 10,
+      "user": 1,
+      "team": 9
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 58,
+    "fields": {
+      "date": "2023-09-17",
+      "description": "Bedding set",
+      "amount": 100,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 59,
+    "fields": {
+      "date": "2023-09-21",
+      "description": "Beach umbrella",
+      "amount": 30,
+      "category": 22,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 60,
+    "fields": {
+      "date": "2023-09-23",
+      "description": "New phone case",
+      "amount": 15,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 61,
+    "fields": {
+      "date": "2023-09-26",
+      "description": "Fishing equipment",
+      "amount": 100,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 62,
+    "fields": {
+      "date": "2023-09-28",
+      "description": "Car loan payment",
+      "amount": 250,
+      "category": 6,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 63,
+    "fields": {
+      "date": "2023-10-03",
+      "description": "Kitchen utensils",
+      "amount": 40,
+      "category": 20,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 65,
+    "fields": {
+      "date": "2023-10-10",
+      "description": "Ice cream cone",
+      "amount": 3,
+      "category": 8,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 65,
+    "fields": {
+      "date": "2023-10-10",
+      "description": "Ice cream cone",
+      "amount": 3,
+      "category": 8,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 66,
+    "fields": {
+      "date": "2023-10-12",
+      "description": "Dinner at a restaurant",
+      "amount": 50,
+      "category": 8,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 67,
+    "fields": {
+      "date": "2023-10-17",
+      "description": "Dinner with friends",
+      "amount": 70,
+      "category": 8,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 68,
+    "fields": {
+      "date": "2023-10-20",
+      "description": "Picnic basket",
+      "amount": 40,
+      "category": 20,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 69,
+    "fields": {
+      "date": "2023-10-23",
+      "description": "Weekend getaway accommodation",
+      "amount": 200,
+      "category": 22,
+      "user": 4,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 70,
+    "fields": {
+      "date": "2023-10-27",
+      "description": "Yoga class",
+      "amount": 20,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 71,
+    "fields": {
+      "date": "2023-10-29",
+      "description": "Art supplies",
+      "amount": 50,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 72,
+    "fields": {
+      "date": "2023-11-02",
+      "description": "Beach chair",
+      "amount": 25,
+      "category": 22,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 73,
+    "fields": {
+      "date": "2023-11-05",
+      "description": "Travel insurance",
+      "amount": 100,
+      "category": 22,
+      "user": 5,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 74,
+    "fields": {
+      "date": "2023-11-06",
+      "description": "Electronics accessories",
+      "amount": 30,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 75,
+    "fields": {
+      "date": "2023-11-09",
+      "description": "Video game controller",
+      "amount": 60,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 76,
+    "fields": {
+      "date": "2023-11-14",
+      "description": "Home insurance premium",
+      "amount": 500,
+      "category": 5,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 77,
+    "fields": {
+      "date": "2023-11-18",
+      "description": "Home repair",
+      "amount": 150,
+      "category": 1,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 78,
+    "fields": {
+      "date": "2023-11-21",
+      "description": "New phone charger",
+      "amount": 20,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 79,
+    "fields": {
+      "date": "2023-11-26",
+      "description": "Ferry ride",
+      "amount": 30,
+      "category": 4,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 80,
+    "fields": {
+      "date": "2023-11-30",
+      "description": "Movie tickets",
+      "amount": 30,
+      "category": 9,
+      "user": 1,
+      "team": 9
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 81,
+    "fields": {
+      "date": "2023-12-03",
+      "description": "Pet food",
+      "amount": 40,
+      "category": 23,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 82,
+    "fields": {
+      "date": "2023-12-08",
+      "description": "Gardening tools",
+      "amount": 50,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 83,
+    "fields": {
+      "date": "2023-12-10",
+      "description": "Coffee maker",
+      "amount": 50,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 84,
+    "fields": {
+      "date": "2023-12-15",
+      "description": "Plant for home decor",
+      "amount": 20,
+      "category": 20,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 85,
+    "fields": {
+      "date": "2023-12-17",
+      "description": "Clothing purchase",
+      "amount": 100,
+      "category": 10,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 86,
+    "fields": {
+      "date": "2023-12-19",
+      "description": "Surfboard rental",
+      "amount": 50,
+      "category": 19,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 87,
+    "fields": {
+      "date": "2023-12-22",
+      "description": "Netflix subscription",
+      "amount": 15,
+      "category": 9,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 88,
+    "fields": {
+      "date": "2023-12-28",
+      "description": "Theme park admission",
+      "amount": 70,
+      "category": 9,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 89,
+    "fields": {
+      "date": "2023-12-29",
+      "description": "Computer software",
+      "amount": 50,
+      "category": 17,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 90,
+    "fields": {
+      "date": "2024-01-02",
+      "description": "Bird feeder",
+      "amount": 10,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 91,
+    "fields": {
+      "date": "2024-01-07",
+      "description": "Music streaming service subscription",
+      "amount": 10,
+      "category": 9,
+      "user": 1,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 92,
+    "fields": {
+      "date": "2024-01-15",
+      "description": "Office chair",
+      "amount": 150,
+      "category": 20,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 93,
+    "fields": {
+      "date": "2024-01-29",
+      "description": "Birthday gift for a friend",
+      "amount": 30,
+      "category": 18,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 94,
+    "fields": {
+      "date": "2024-02-02",
+      "description": "School supplies",
+      "amount": 50,
+      "category": 11,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 95,
+    "fields": {
+      "date": "2024-02-06",
+      "description": "Smart thermostat",
+      "amount": 100,
+      "category": 20,
+      "user": 2,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 96,
+    "fields": {
+      "date": "2024-02-13",
+      "description": "Yoga mat",
+      "amount": 20,
+      "category": 21,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 97,
+    "fields": {
+      "date": "2024-02-20",
+      "description": "Office supplies",
+      "amount": 30,
+      "category": 20,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 98,
+    "fields": {
+      "date": "2024-02-25",
+      "description": "Swimming lessons",
+      "amount": 100,
+      "category": 19,
+      "user": 1,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 99,
+    "fields": {
+      "date": "2024-02-25",
+      "description": "Scuba diving excursion",
+      "amount": 200,
+      "category": 22,
+      "user": 1,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.expense",
+    "pk": 100,
+    "fields": {
+      "date": "2024-02-25",
+      "description": "Snorkeling gear",
+      "amount": 80,
+      "category": 22,
+      "user": 1,
+      "team": 8
+    }
+  }
+]

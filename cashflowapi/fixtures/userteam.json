@@ -1,0 +1,137 @@
+[
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "splitFraction": 100,
+      "team": 1
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "splitFraction": 100,
+      "team": 2
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "splitFraction": 50,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 4,
+    "fields": {
+      "user": 2,
+      "splitFraction": 50,
+      "team": 3
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 5,
+    "fields": {
+      "user": 3,
+      "splitFraction": 100,
+      "team": 4
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 9,
+    "fields": {
+      "user": 4,
+      "splitFraction": 100,
+      "team": 6
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 10,
+    "fields": {
+      "user": 5,
+      "splitFraction": 100,
+      "team": 7
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 11,
+    "fields": {
+      "user": 1,
+      "splitFraction": 34,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 12,
+    "fields": {
+      "user": 4,
+      "splitFraction": 33,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 13,
+    "fields": {
+      "user": 5,
+      "splitFraction": 33,
+      "team": 8
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 14,
+    "fields": {
+      "user": 1,
+      "splitFraction": 90,
+      "team": 9
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 15,
+    "fields": {
+      "user": 3,
+      "splitFraction": 10,
+      "team": 9
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 16,
+    "fields": {
+      "user": 1,
+      "splitFraction": 45,
+      "team": 5
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 17,
+    "fields": {
+      "user": 2,
+      "splitFraction": 45,
+      "team": 5
+    }
+  },
+  {
+    "model": "cashflowapi.userteam",
+    "pk": 18,
+    "fields": {
+      "user": 3,
+      "splitFraction": 10,
+      "team": 5
+    }
+  }
+]

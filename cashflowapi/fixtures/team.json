@@ -1,0 +1,72 @@
+[
+  {
+    "model": "cashflowapi.team",
+    "pk": 1,
+    "fields": {
+      "name": "Mike Personal"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 2,
+    "fields": {
+      "name": "Emily Personal"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 3,
+    "fields": {
+      "name": "Mike + Emily, 50/50"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 4,
+    "fields": {
+      "name": "John Personal"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 5,
+    "fields": {
+      "name": "Mike + Emily + John, 45/45/10"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 6,
+    "fields": {
+      "name": "Sarah Personal"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 7,
+    "fields": {
+      "name": "David Personal"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 8,
+    "fields": {
+      "name": "Mike + Sarah + David 34/33/33"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 9,
+    "fields": {
+      "name": "Mike + John 90/10"
+    }
+  },
+  {
+    "model": "cashflowapi.team",
+    "pk": 10,
+    "fields": {
+      "name": "Test User Personal"
+    }
+  }
+]

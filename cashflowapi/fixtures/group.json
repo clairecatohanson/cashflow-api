@@ -1,0 +1,51 @@
+[
+  {
+    "model": "cashflowapi.group",
+    "pk": 1,
+    "fields": {
+      "name": "Essential"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 2,
+    "fields": {
+      "name": "Non-Essential"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 3,
+    "fields": {
+      "name": "Savings, Investments, & Debt Payments"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 4,
+    "fields": {
+      "name": "Income"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 5,
+    "fields": {
+      "name": "Business"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 6,
+    "fields": {
+      "name": "Taxes"
+    }
+  },
+  {
+    "model": "cashflowapi.group",
+    "pk": 7,
+    "fields": {
+      "name": "Special Projects"
+    }
+  }
+]
