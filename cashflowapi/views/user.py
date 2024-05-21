@@ -123,3 +123,31 @@ class UserViewSet(viewsets.ModelViewSet):
 
         serializer = UserSerializer(user)
         return Response(serializer.data)
+
+    def update(self, request, pk=None):
+        user = get_object_or_404(User, pk=pk)
+
+        # Get keys from the request body
+        username = request.data.get("username", None)
+        first_name = request.data.get("first_name", None)
+        last_name = request.data.get("last_name", None)
+
+        if not username and not first_name and not last_name:
+            return Response(
+                {
+                    "error": "Missing required fields. Please include at least one of the following: username, first_name, last_name."
+                },
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
+        # Update and save the instance
+        if username is not None:
+            user.username = username
+        if first_name is not None:
+            user.first_name = first_name
+        if last_name is not None:
+            user.last_name = last_name
+
+        user.save()
+
+        return Response({}, status=status.HTTP_204_NO_CONTENT)
