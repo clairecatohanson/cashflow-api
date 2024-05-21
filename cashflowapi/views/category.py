@@ -53,27 +53,33 @@ class CategoryViewSet(viewsets.ModelViewSet):
 
         return Response({}, status=status.HTTP_204_NO_CONTENT)
 
-    # def create(self, request):
-    #     # Check for required keys in the request body
-    #     name = request.data.get("name", None)
+    def create(self, request):
+        # Get user
+        user = request.auth.user
 
-    #     if not name:
-    #         return Response(
-    #             {
-    #                 "error": "Missing required fields. Please include at least one of the following: name."
-    #             },
-    #             status=status.HTTP_400_BAD_REQUEST,
-    #         )
+        # Check for required keys in the request body
+        name = request.data.get("name", None)
+        group_id = request.data.get("groupId", None)
 
-    #     # Create a new instance
-    #     try:
-    #         group = Group.objects.create(name=name)
-    #     except ValidationError as e:
-    #         return Response({"error": e.args[0]}, status=status.HTTP_400_BAD_REQUEST)
+        if not name or not group_id:
+            return Response(
+                {
+                    "error": "Missing required fields. Please include at least one of the following: name, groupId."
+                },
+                status=status.HTTP_400_BAD_REQUEST,
+            )
 
-    #     serializer = GroupSerializer(group, many=False)
+        group = get_object_or_404(Group, pk=group_id)
 
-    #     return Response(serializer.data, status=status.HTTP_201_CREATED)
+        # Create a new instance
+        try:
+            category = Category.objects.create(name=name, group=group, user=user)
+        except ValidationError as e:
+            return Response({"error": e.args[0]}, status=status.HTTP_400_BAD_REQUEST)
+
+        serializer = CategorySerializer(category, many=False)
+
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
 
     def delete(self, request, pk=None):
         category = get_object_or_404(Category, pk=pk)

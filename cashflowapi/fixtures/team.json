@@ -61,12 +61,5 @@
     "fields": {
       "name": "Mike + John 90/10"
     }
-  },
-  {
-    "model": "cashflowapi.team",
-    "pk": 10,
-    "fields": {
-      "name": "Test User Personal"
-    }
   }
 ]
